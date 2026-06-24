@@ -8,7 +8,7 @@ This project analyzes buyer behavior using clustering techniques and provides an
 
 ## 🚀 Live Demo
 
-🔗 **Dashboard:** [https://your-app-name.streamlit.app](https://real-estate-segmentation-project-sri.streamlit.app/)
+🔗 **Dashboard:** [https://real-estate-segmentation-project-sri.streamlit.app/](https://real-estate-segmentation-project-sri.streamlit.app/)
 
 ---
 
