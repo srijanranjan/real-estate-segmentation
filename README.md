@@ -6,6 +6,12 @@ This project analyzes buyer behavior using clustering techniques and provides an
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Dashboard:** [https://your-app-name.streamlit.app](https://real-estate-segmentation-project-sri.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 Real estate companies often possess large volumes of customer and transaction data but struggle to identify meaningful buyer groups.
