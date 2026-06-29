@@ -12,6 +12,14 @@ This project analyzes buyer behavior using clustering techniques and provides an
 
 ---
 
+📄 **[Read the full research paper](https://drive.google.com/file/d/18V-5R_9b6IsuNtizh3jTsQtIG9fVe5oM/view?usp=sharing)**
+— covers the methodology, the hypothesis testing of the project brief's
+four illustrative buyer archetypes (none of which held up), the k-selection
+evidence, the five final segments, and a date-parsing bug that was found
+and corrected during the analysis.
+
+---
+
 ## 📌 Project Overview
 
 Real estate companies often possess large volumes of customer and transaction data but struggle to identify meaningful buyer groups.
