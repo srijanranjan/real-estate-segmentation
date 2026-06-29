@@ -277,7 +277,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Srijan**
+**Srijan Ranjan**
 
 B.Tech Computer Science Engineering
 GITAM University
